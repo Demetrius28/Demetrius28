@@ -8,7 +8,7 @@ Hi there my name is Demetrius
   - [osTicket: Post-Installation Configuration](https://github.com/demetrius28/post-install-config)
  - <b>VM and Remote Desktop SetUp </b>
    - [Azure: Setting up Virtual Machine](https://github.com/demetrius28/VM-and-Desktop-Setup)
-   - [Microsoft Remote Desktop: Setting up with Azure](https://github.com/demetrius28/post-install-config)
+   - [Microsoft Remote Desktop: Setting up with Azure](https://github.com/demetrius28/vm-set-up)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/demetrius28/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/demetrius28/azure-network-protocols)
