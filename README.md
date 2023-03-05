@@ -7,7 +7,7 @@ Hi there my name is Demetrius
   - [osTicket: Prerequisites and Installation](https://github.com/demetrius28/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/demetrius28/post-install-config)
  - <b>VM and Remote Desktop SetUp </b>
-   - [Azure: Setting up Virtual Machine](https://github.com/demetrius28/osticket-prereqs)
+   - [Azure: Setting up Virtual Machine](https://github.com/demetrius28/VM-and-Desktop-Setup)
    - [Microsoft Remote Desktop: Setting up with Azure](https://github.com/demetrius28/post-install-config)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/demetrius28/configure-ad)
